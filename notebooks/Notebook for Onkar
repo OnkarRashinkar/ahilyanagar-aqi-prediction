@@ -1,0 +1,4 @@
+notebooks/
+ ├─ aqi_data_structuring.ipynb
+ ├─ visualization.ipynb
+ └─ baseline_prediction_model.ipynb
