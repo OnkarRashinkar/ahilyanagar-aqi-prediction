@@ -1,0 +1,17 @@
+ahilyanagar-aqi-prediction/
+│
+├── paper/
+│   ├── AQI_Paper.pdf
+│
+├── data/
+│   ├── aqi_monthly_2021_2025.csv
+│
+├── figures/
+│   ├── fig5_1.png
+│   ├── fig5_2.png
+│   ├── fig5_3.png
+│   ├── fig5_4.png
+│   └── fig5_5.png
+│
+├── README.md
+├── LICENSE
